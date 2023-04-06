@@ -8,7 +8,10 @@ body {
   background-color: #d9dcd6;
 }
 
+<<<<<<< HEAD
 /* i changed the div header  to a header element in both HTML and CSS*/
+=======
+>>>>>>> main
 header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,8 +28,11 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+<<<<<<< HEAD
 /*changed the class "nav" to nav element*/
 
+=======
+>>>>>>> main
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -35,12 +41,18 @@ header nav {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 /*changed the class "nav" to nav element*/
+=======
+>>>>>>> main
 header nav ul {
   list-style-type: none;
 }
 
+<<<<<<< HEAD
 /*changed the class "nav" to nav element*/
+=======
+>>>>>>> main
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
