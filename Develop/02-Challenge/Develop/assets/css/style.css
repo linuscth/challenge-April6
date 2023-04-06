@@ -8,6 +8,9 @@ body {
   background-color: #d9dcd6;
 }
 
+
+/* i changed the div header  to a header element in both HTML and CSS*/
+
 header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +27,9 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+
+/*changed the class "nav" to nav element*/
+
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -32,9 +38,14 @@ header nav {
   font-size: 20px;
 }
 
+
+/*changed the class "nav" to nav element*/
 header nav ul {
   list-style-type: none;
 }
+
+
+/*changed the class "nav" to nav element*/
 
 header nav ul li {
   display: inline-block;
@@ -50,13 +61,14 @@ p {
   font-size: 16px;
 }
 
-.hero {
+/* moved the background image from CSS to HTML, and added display: block */
+.hero img {
+
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url('../images/digital-marketing-meeting.jpg');
-  background-size: cover;
-  background-position: center;
+  display: block;
+
 }
 
 .float-left {
@@ -188,13 +200,15 @@ p {
   font-size: 36px;
 }
 
-.footer {
+/* chagne the class "footer" to footer element on the selector*/
+footer {
   padding: 30px;
   clear: both;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
 }
 
-.footer h2 {
+/* chagne the class "footer" to footer element on the selector*/
+footer h2 {
   font-size: 20px;
 }
