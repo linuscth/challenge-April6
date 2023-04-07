@@ -3,27 +3,20 @@
 
 ## Description
 
-in this project, I changed the index.html file by implementing semantic style, which allows other programmers eaily understand the settings.
+* in this project, I changed the index.html file by implementing semantic style, which allows other programmers eaily understand the settings. I have also added attributes on every images in order to let readers understand what the image is about in case they are not shown. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-N/A
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-N/A
+* N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+below is my screenshots 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-N/A
+![screenshot](../screenshot1.png)
+![screenshot](../screenshot2.png)
 
 ## Credits
 
@@ -33,8 +26,11 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
-Instructor: Michael   for giving out support on the background picture. 
-TA: Nirav   for giving out advices on missing elements 
+* Instructor: Michael   for giving out support on the background picture. 
+* TA: Nirav   for giving out advices on missing elements 
+
+* thank you so much!
+
 
 ## License
 
